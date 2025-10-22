@@ -47,6 +47,3 @@ for source, path in JSON_PATHS.items():
 df = pd.DataFrame(rows, columns=['Source','P50','P90','Gini'])
 df = df.set_index('Source').loc[['Wired','Quanta','NewScientist']]
 print(df)
-
-# If you want to display in Jupyter nicely:
-# import IPython.display as disp; disp.display(df)

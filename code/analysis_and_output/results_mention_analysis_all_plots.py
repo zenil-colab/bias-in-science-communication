@@ -210,5 +210,4 @@ plt.savefig(os.path.join(OUT_DIR, 'boxplot_mentions.png'), dpi=300)
 plt.close()
 
 
-# —— Done —— #
 print(" All plots saved to:", OUT_DIR)
