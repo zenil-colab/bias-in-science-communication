@@ -27,7 +27,20 @@ dead_scientists = {
     "Ada Lovelace", "Alan Turing", "Niels Bohr", "Bohr",
     "Max Planck", "Planck", "Galileo"
 }
-non_scientists = {"Donald Trump", "Elon Musk", "Joe Biden"}
+non_scientists = {"Bill Nelson","Lo Presti","Robert F","Jared Isaacman","Gutiérrez Alvarado","RFK Jr.","RFK Jr","Donald Trump",
+                  "Elon Musk","Joe Biden","Robert F. Kennedy Jr.","Lauren Goode","Gideon Lichfield","Katie Drummond", 
+                  "Michael Calore","Jamie Beard","De Bruyne","Zach Weinersmith","Karmela Padavic-Callaghan","Leah Crane","Alex Wilkins",
+                  "Leah Crane","Matthew Sparkes","Michael Brooks","Richard Webb","Anil Ananthaswamy","Chelsea Whyte",
+                  "Thomas Lewton","Stuart Clark","ByKarmela Padavic-Callaghan","Donna Lu","Joshua Howgego"," Daniel Cossins",
+                  "Timothy Revell","Lucy Reading-Ikkanda","Samuel Velasco","Merrill Sherman","Olena Shmahalo","Kristina Armitage",
+                  "Contributing Writer","Thomas Lin","John Rennie","Steve Strogatz","Charles Michelet","Puzzle Columnist",
+                  "Merrill Sherman/Quanta Magazine","Merrill Sherman","Contributing Correspondent","Philipp Ammon",
+                  "Matt Carlstrom","Dana Bialek","Emily Buder","Susan Valot","Lucy Reading-Ikkandafor","Math Editor","Stockton Rush",
+                  "Robert F. Kennedy Jr","Edwin Hubble","Ali Zaidi","Suni Williams","Ron DeSantis","Matthew Kacsmaryk",
+                  "Gavin Newsom","ByLeah Crane","Daniel Cossins","de Rham","James Clerk Maxwell","Enrico Sacchetti",
+                  "Werner Heisenberg","Paul Dirac","ByAlex Wilkins","David Bennett","Boris Johnson","Ben Smith","Paul Erdős",
+                  "Ellen Horne","David Hilbert","Dan Pagefor","Richie Johnson","Polly Stryker","Kurt Gödel","Jaki King",
+                  "Bertrand Odom-Reed"}
 
 # Output dir
 OUT_DIR = 'Analysis_plots_final'
